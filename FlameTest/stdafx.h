@@ -18,3 +18,6 @@
 #include <functional>
 #include <queue>
 #include <boost/coroutine/all.hpp>
+#include <hash_map>
+#include <vector>
+#include <list>
